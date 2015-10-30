@@ -1,0 +1,30 @@
+Version 0.4.6
+[-] Bump version number to match with the one in Screenlets PPA
+
+Version 0.2.2
+[-] Merged changes with Guido Tabbernuk's code!
+
+Version 0.2.2
+[-] Fixed User-Agent Problem
+[-] Added some icon codes for foggy night conditions
+
+Version 0.2
+[-]Default language is 'English'
+[-]Time now defaults to PC's time and has added an option to use City local time (needs python timezone module: pytz. 
+If not installed a message box will popup!)
+[-]Added Units (metric - celsius or english - Fahrenheit) selection (Defaults to 'Metric')
+[-]Added tooltips and messages regarding the zip code and how to get it from freemeteo.com
+[-]Renamed 'tray icon' to 'Toggle Forecast Icon'
+[-]Added missing icon codes for foggy coditions
+ 
+Version 0.1
+[-] INITIAL VERSION
+Changes from WideScape Screenlet:
+[-]Uses Freemeteo.com instead of weather.com
+[-]Shows detailed weather description via right click > Forecast Description
+[-]Uses text for Daynames
+[-]Show min temperature values
+[-]Translated in 21 languages (Cityname / daynames / weather description)
+[-]Use selected city's local time (needs pytz module)
+
+

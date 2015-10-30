@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=FreemeteoWeather
+Encoding=UTF-8
+Version=1.0
+Type=Application
+GenericName=Desktop widget
+Comment=A Minimal Weather Screenlet (powered by freemeteo.com) that uses Widescape Weather Graphics. Supports many languages.
+Exec= python -u /usr/share/screenlets/FreemeteoWeather/FreemeteoWeatherScreenlet.py
+Icon=/usr/share/screenlets/FreemeteoWeather/icon.svg

@@ -1,0 +1,13 @@
+Source: freemeteoweather-screenlet
+Section: gnome
+Priority: optional
+Maintainer: Guido Tabbernuk <boamaod@gmail.com>
+Uploaders: Nikiforakis Manos, Guido Tabbernuk
+Build-Depends: debhelper (>= 5)
+Standards-Version: 3.7.2
+
+Package: freemeteoweather-screenlet
+Depends: screenlets (>= 0.1.2-9), python-tz
+Architecture: all
+Description: A Minimal Weather Screenlet (powered by freemeteo.com) that
+ uses Widescape Weather Graphics. Supports many languages.

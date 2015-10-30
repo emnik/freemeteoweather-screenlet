@@ -1,0 +1,257 @@
+# Polish translation for indiv-screenlets
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the indiv-screenlets package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indiv-screenlets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-15 02:58+0200\n"
+"PO-Revision-Date: 2011-07-11 10:56+0000\n"
+"Last-Translator: Szymon Sieciński <Unknown>\n"
+"Language-Team: Polish <pl@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-21 06:05+0000\n"
+"X-Generator: Launchpad (build 16872)\n"
+"Language: pl\n"
+
+#: FreemeteoWeatherScreenlet.py:259 FreemeteoWeatherScreenlet.py:470
+#: FreemeteoWeatherScreenlet.py:522
+msgid "Metric"
+msgstr "Metryczny"
+
+#. add option group
+#. TODO: Hook it up to LIVE SOURCES
+#. TODO: Edit Boxes entering Zipcode, Custom City Name
+#. Check Boxes for toggling Short/Expanded, City/Time display, Tray button
+#. Color selection boxes for Customizing Appearance
+#. TODO: Look into Mouse Event Handling - Mouse click/over on widget -> animate open/close
+#: FreemeteoWeatherScreenlet.py:424 FreemeteoWeatherScreenlet.py:427
+#: FreemeteoWeatherScreenlet.py:430 FreemeteoWeatherScreenlet.py:433
+#: FreemeteoWeatherScreenlet.py:436 FreemeteoWeatherScreenlet.py:439
+#: FreemeteoWeatherScreenlet.py:442 FreemeteoWeatherScreenlet.py:445
+#: FreemeteoWeatherScreenlet.py:448 FreemeteoWeatherScreenlet.py:451
+msgid "Appearance"
+msgstr "Wygląd"
+
+#: FreemeteoWeatherScreenlet.py:424
+msgid "Adjust Appearance of the Widget"
+msgstr "Dostosuj wygląd widżetu"
+
+#: FreemeteoWeatherScreenlet.py:425 FreemeteoWeatherScreenlet.py:453
+#: FreemeteoWeatherScreenlet.py:456 FreemeteoWeatherScreenlet.py:459
+#: FreemeteoWeatherScreenlet.py:462
+msgid "Layout"
+msgstr "Układ"
+
+#: FreemeteoWeatherScreenlet.py:425
+msgid "Adjust Layout and Behavior of the Widget"
+msgstr "Dostosuj układ i zachowanie widżetu"
+
+#. we should not translate the ZIP variable...
+#: FreemeteoWeatherScreenlet.py:426 FreemeteoWeatherScreenlet.py:466
+#: FreemeteoWeatherScreenlet.py:469 FreemeteoWeatherScreenlet.py:471
+#: FreemeteoWeatherScreenlet.py:473 FreemeteoWeatherScreenlet.py:475
+msgid "Weather"
+msgstr "Pogoda"
+
+#: FreemeteoWeatherScreenlet.py:426
+msgid "Settings for fetching Weather Information"
+msgstr "Ustawienia pobierania informacji o pogodzie"
+
+#: FreemeteoWeatherScreenlet.py:428
+msgid "Background Color"
+msgstr "Kolor tła"
+
+#: FreemeteoWeatherScreenlet.py:429
+msgid "Background Color of the Widget"
+msgstr "Kolor tła widżeru"
+
+#: FreemeteoWeatherScreenlet.py:431
+msgid "Icon Color"
+msgstr "Kolor ikony"
+
+#: FreemeteoWeatherScreenlet.py:432
+msgid "Color of the Weather Icons"
+msgstr "Kolor ikon pogodowych"
+
+#: FreemeteoWeatherScreenlet.py:434
+msgid "Text Color"
+msgstr "Kolor tekstu"
+
+#: FreemeteoWeatherScreenlet.py:435
+msgid "Color of the Text"
+msgstr "Kolor tekstu"
+
+#: FreemeteoWeatherScreenlet.py:437
+msgid "Bigger Font"
+msgstr "Większa czcionka"
+
+#: FreemeteoWeatherScreenlet.py:438
+msgid "Font used for City and current temperature"
+msgstr "Czcionka użyta dla miasta i obecnej temperatury"
+
+#: FreemeteoWeatherScreenlet.py:440
+msgid "Smaller Font"
+msgstr "Mniejsza czcionka"
+
+#: FreemeteoWeatherScreenlet.py:441
+msgid "Font used for forecast temperature"
+msgstr "Czcionka użyta dla prognozy temperatur"
+
+#: FreemeteoWeatherScreenlet.py:443
+msgid "Tiny Font"
+msgstr ""
+
+#: FreemeteoWeatherScreenlet.py:444
+msgid "Font used for forecast low temperature and dayname"
+msgstr "Czcionka przewidywanej najniższej temperatury i nazwy dnia"
+
+#: FreemeteoWeatherScreenlet.py:446
+msgid "Show Background for City"
+msgstr "Pokaż tło dla miasta"
+
+#: FreemeteoWeatherScreenlet.py:447
+msgid "Show City and Time Background Color in the Widget ?"
+msgstr "Pokazać kolor tła miasta i czasu w widżecie?"
+
+#: FreemeteoWeatherScreenlet.py:449
+msgid "Show 24 Hour Clock"
+msgstr "Pokaż 24-godzinny zegar"
+
+#: FreemeteoWeatherScreenlet.py:450
+msgid "Show a 24 Hour Clock ?"
+msgstr "Pokazać 24-godzinny zegar?"
+
+#: FreemeteoWeatherScreenlet.py:452
+msgid "Background round corners"
+msgstr "Zaokrąglone rogi tła"
+
+#: FreemeteoWeatherScreenlet.py:452
+msgid "Draw background with round corners"
+msgstr "Rysuj tło z zaokrąglonymi rogami"
+
+#: FreemeteoWeatherScreenlet.py:454
+msgid "Show City and Time"
+msgstr "Pokaż miasto i czas"
+
+#: FreemeteoWeatherScreenlet.py:455
+msgid "Show City and Time in the Widget ?"
+msgstr "Pokazać miasto i czas w widżecie?"
+
+#: FreemeteoWeatherScreenlet.py:457
+msgid "Use City's Local Time"
+msgstr "Użyj czasu używanego w mieście"
+
+#: FreemeteoWeatherScreenlet.py:458
+msgid "Use selected city's local time instead of PC's time."
+msgstr "Używaj czasu miejscowego danego miasta zamiast czasu komputera"
+
+#: FreemeteoWeatherScreenlet.py:460
+msgid "Show Forecast"
+msgstr "Pokaż prognozę"
+
+#: FreemeteoWeatherScreenlet.py:461
+msgid "Show Forecast in the Widget ?"
+msgstr "Pokazać prognozę pogody w widżecie?"
+
+#: FreemeteoWeatherScreenlet.py:463
+msgid "Show Toggle Forecast Icon"
+msgstr "Pokaż ikonę przełączania prognozy"
+
+#: FreemeteoWeatherScreenlet.py:464
+msgid "Show a plus/minus icon for showing or not 4-days forecast."
+msgstr ""
+"Pokaż ikonę plus/minus do włączenia/wyłączenia pokazwania prognozy "
+"czterodniowej."
+
+#: FreemeteoWeatherScreenlet.py:467
+msgid "Freemeteo's Area ZIP Code"
+msgstr "Kod pocztowy wskazanego obszaru"
+
+#: FreemeteoWeatherScreenlet.py:468 FreemeteoWeatherScreenlet.py:885
+msgid ""
+"Get your area's code (Zip code) from http://www.freemeteo.com :\n"
+"Choose your region and copy the number after 'gid=' part of the URL"
+msgstr ""
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "Select units"
+msgstr "Wybierz jednostki"
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "Metric=(C)elsius, English=(F)ahrenheit"
+msgstr "Metryczne=°C, Angielskie=°F"
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "English"
+msgstr "Angielski"
+
+#: FreemeteoWeatherScreenlet.py:472
+msgid "Select language"
+msgstr "Wybierz język"
+
+#: FreemeteoWeatherScreenlet.py:474
+msgid "Select language for Freemeteo.com forecasts"
+msgstr "Wybierz język prognozy pogody z Freemeteo.com"
+
+#: FreemeteoWeatherScreenlet.py:476
+msgid "Show error messages"
+msgstr "Pokaż komunikaty błędu"
+
+#: FreemeteoWeatherScreenlet.py:477
+msgid "Show an error message on invalid location code"
+msgstr "Pokazuj komunikaty błędu związane z błędnym kodem lokalizacji"
+
+#. Menu items have been moved here...
+#. add zip code menu item
+#: FreemeteoWeatherScreenlet.py:536
+msgid "Zip Code..."
+msgstr "Kod pocztowy"
+
+#. create dialog
+#: FreemeteoWeatherScreenlet.py:537 FreemeteoWeatherScreenlet.py:902
+msgid "Forecast description"
+msgstr "Opis prognozy pogody"
+
+#: FreemeteoWeatherScreenlet.py:542
+msgid "Please select desired ZIP Code to view forecast."
+msgstr "Wybierz kod pocztowy, aby obejrzeć prognozę pogody"
+
+#: FreemeteoWeatherScreenlet.py:628
+msgid "Please set your ZIP Code... "
+msgstr "Wpisz kod pocztowy "
+
+#. self.draw_text(ctx, self.cityName, citytimewidth-citywidth-3, 1, self.bigfont, self.textColor)
+#: FreemeteoWeatherScreenlet.py:631
+msgid "Connecting... "
+msgstr "Łączenie... "
+
+#. create dialog
+#: FreemeteoWeatherScreenlet.py:879
+msgid "Zip Code"
+msgstr "Kod pocztowy"
+
+#: FreemeteoWeatherScreenlet.py:911
+msgid ""
+"There was an error fetching freemeteo servers. Please try again later..."
+msgstr ""
+
+#: FreemeteoWeatherScreenlet.py:930
+msgid ""
+"Could not reach Freemeteo.com. Check your internet connection and location "
+"and try again."
+msgstr ""
+"Nie można połączyć się z Freemeteo.com. Sprawdź swoje połączenie internetowe "
+"i lokalizację i spróbuj ponownie."
+
+#. TRANSLATORS: This is the description of FreemeteoWeatherScreenlet
+msgid ""
+"A Minimal Weather Screenlet (powered by freemeteo.com) that uses Widescape "
+"Weather Graphics. Supports many languages."
+msgstr ""
+"Minimalistyczny screenlet pogody oparty o freemeteo.com, który używa "
+"Widescape Weather Graphics. Wspiera wiele języków."

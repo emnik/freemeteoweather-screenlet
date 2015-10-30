@@ -1,0 +1,263 @@
+# Greek translation for indiv-screenlets
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the indiv-screenlets package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indiv-screenlets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-15 02:58+0200\n"
+"PO-Revision-Date: 2012-08-13 23:29+0000\n"
+"Last-Translator: Spyridon Kazanas <Unknown>\n"
+"Language-Team: Greek <el@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-21 06:05+0000\n"
+"X-Generator: Launchpad (build 16872)\n"
+"Language: el\n"
+
+#: FreemeteoWeatherScreenlet.py:259 FreemeteoWeatherScreenlet.py:470
+#: FreemeteoWeatherScreenlet.py:522
+msgid "Metric"
+msgstr "Μετρικό"
+
+#. add option group
+#. TODO: Hook it up to LIVE SOURCES
+#. TODO: Edit Boxes entering Zipcode, Custom City Name
+#. Check Boxes for toggling Short/Expanded, City/Time display, Tray button
+#. Color selection boxes for Customizing Appearance
+#. TODO: Look into Mouse Event Handling - Mouse click/over on widget -> animate open/close
+#: FreemeteoWeatherScreenlet.py:424 FreemeteoWeatherScreenlet.py:427
+#: FreemeteoWeatherScreenlet.py:430 FreemeteoWeatherScreenlet.py:433
+#: FreemeteoWeatherScreenlet.py:436 FreemeteoWeatherScreenlet.py:439
+#: FreemeteoWeatherScreenlet.py:442 FreemeteoWeatherScreenlet.py:445
+#: FreemeteoWeatherScreenlet.py:448 FreemeteoWeatherScreenlet.py:451
+msgid "Appearance"
+msgstr "Εμφάνιση"
+
+#: FreemeteoWeatherScreenlet.py:424
+msgid "Adjust Appearance of the Widget"
+msgstr "Προσαρμογή της εμφάνισης του Screenlet"
+
+#: FreemeteoWeatherScreenlet.py:425 FreemeteoWeatherScreenlet.py:453
+#: FreemeteoWeatherScreenlet.py:456 FreemeteoWeatherScreenlet.py:459
+#: FreemeteoWeatherScreenlet.py:462
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: FreemeteoWeatherScreenlet.py:425
+msgid "Adjust Layout and Behavior of the Widget"
+msgstr "Προσαρμογή διάταξης και λειτουργιών του Screenlet"
+
+#. we should not translate the ZIP variable...
+#: FreemeteoWeatherScreenlet.py:426 FreemeteoWeatherScreenlet.py:466
+#: FreemeteoWeatherScreenlet.py:469 FreemeteoWeatherScreenlet.py:471
+#: FreemeteoWeatherScreenlet.py:473 FreemeteoWeatherScreenlet.py:475
+msgid "Weather"
+msgstr "Καιρός"
+
+#: FreemeteoWeatherScreenlet.py:426
+msgid "Settings for fetching Weather Information"
+msgstr "Ρυθμίσεις ανάκτησης πληροφοριών καιρού"
+
+#: FreemeteoWeatherScreenlet.py:428
+msgid "Background Color"
+msgstr "Χρώμα παρασκηνίου"
+
+#: FreemeteoWeatherScreenlet.py:429
+msgid "Background Color of the Widget"
+msgstr "Χρώμα παρασκηνίου του Widget"
+
+#: FreemeteoWeatherScreenlet.py:431
+msgid "Icon Color"
+msgstr "Χρώμα εικονικδίου"
+
+#: FreemeteoWeatherScreenlet.py:432
+msgid "Color of the Weather Icons"
+msgstr "Χρώμα εικονιδίων καιρικών συνθηκών"
+
+#: FreemeteoWeatherScreenlet.py:434
+msgid "Text Color"
+msgstr "Χρώμα Κειμένου"
+
+#: FreemeteoWeatherScreenlet.py:435
+msgid "Color of the Text"
+msgstr "Χρώμα Κειμένου"
+
+#: FreemeteoWeatherScreenlet.py:437
+msgid "Bigger Font"
+msgstr "Γραμματοσειρά μεγάλου μεγέθους"
+
+#: FreemeteoWeatherScreenlet.py:438
+msgid "Font used for City and current temperature"
+msgstr ""
+"Γραμματοσειρά για την εμφάνιση της πόλης και της τρέχουσας θερμοκρασίας"
+
+#: FreemeteoWeatherScreenlet.py:440
+msgid "Smaller Font"
+msgstr "Γραμματοσειρά μικρού μεγέθους"
+
+#: FreemeteoWeatherScreenlet.py:441
+msgid "Font used for forecast temperature"
+msgstr "Γραμματοσειρά για τη θερμοκρασία"
+
+#: FreemeteoWeatherScreenlet.py:443
+msgid "Tiny Font"
+msgstr "Γραμματοσειρά πολύ μικρού μεγέθους"
+
+#: FreemeteoWeatherScreenlet.py:444
+msgid "Font used for forecast low temperature and dayname"
+msgstr "Γραμματοσειρά για εμφάνιση χαμηλής θερμοκρασίας και ημέρας"
+
+#: FreemeteoWeatherScreenlet.py:446
+msgid "Show Background for City"
+msgstr "Εμφάνιση παρασκηνίου για την πόλη"
+
+#: FreemeteoWeatherScreenlet.py:447
+msgid "Show City and Time Background Color in the Widget ?"
+msgstr "Εμφάνιση πόλης και ώρας"
+
+#: FreemeteoWeatherScreenlet.py:449
+msgid "Show 24 Hour Clock"
+msgstr "Ρολόι σε 24η μορφή"
+
+#: FreemeteoWeatherScreenlet.py:450
+msgid "Show a 24 Hour Clock ?"
+msgstr "Ρολόι σε 24η μορφή"
+
+#: FreemeteoWeatherScreenlet.py:452
+msgid "Background round corners"
+msgstr "Στρογγυλεμένες άκρες στο παρασκήνιο"
+
+#: FreemeteoWeatherScreenlet.py:452
+msgid "Draw background with round corners"
+msgstr "Στρογγυλεμένες άκρες στο παρασκήνιο"
+
+#: FreemeteoWeatherScreenlet.py:454
+msgid "Show City and Time"
+msgstr "Εμφάνιση πόλης και ώρας"
+
+#: FreemeteoWeatherScreenlet.py:455
+msgid "Show City and Time in the Widget ?"
+msgstr "Εμφάνιση πόλης και ώρας"
+
+#: FreemeteoWeatherScreenlet.py:457
+msgid "Use City's Local Time"
+msgstr "Χρήση τοπικής ώρας"
+
+#: FreemeteoWeatherScreenlet.py:458
+msgid "Use selected city's local time instead of PC's time."
+msgstr ""
+"Χρήση τοπικής ώρας για την επιλεγμένη πόλη αντί της ώρας του υπολογιστή"
+
+#: FreemeteoWeatherScreenlet.py:460
+msgid "Show Forecast"
+msgstr "Εμφάνιση πρόβλεψης"
+
+#: FreemeteoWeatherScreenlet.py:461
+msgid "Show Forecast in the Widget ?"
+msgstr "Εμφάνιση πρόβλεψης"
+
+#: FreemeteoWeatherScreenlet.py:463
+msgid "Show Toggle Forecast Icon"
+msgstr "Εικονιδίου εναλλαγής εμφάνισης πρόβλεψης"
+
+#: FreemeteoWeatherScreenlet.py:464
+msgid "Show a plus/minus icon for showing or not 4-days forecast."
+msgstr "Εικονίδιο εναλλαγής εμφάνισης πρόβλεψης καιρικών συνθηκών"
+
+#: FreemeteoWeatherScreenlet.py:467
+msgid "Freemeteo's Area ZIP Code"
+msgstr "Κωδικός περιοχής του Freemeteo"
+
+#: FreemeteoWeatherScreenlet.py:468 FreemeteoWeatherScreenlet.py:885
+msgid ""
+"Get your area's code (Zip code) from http://www.freemeteo.com :\n"
+"Choose your region and copy the number after 'gid=' part of the URL"
+msgstr ""
+"Βρείτε τον κωδικό της περιοχή σας από http://www.freemeteo.com :\n"
+"Επιλέξτε τη περιοχή σας και αντιγράψτε τον αριθμό μετά το τμήμα  'gid=' \n"
+"της διεύθυνσης της ιστοσελίδας."
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "Select units"
+msgstr "Επιλέξτε μονάδες θερμοκρασίας"
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "Metric=(C)elsius, English=(F)ahrenheit"
+msgstr "Μετρικό = (C)Κελσίου, Αγγλικό = (F)Φαρενάιτ"
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "English"
+msgstr "Αγγλικό"
+
+#: FreemeteoWeatherScreenlet.py:472
+msgid "Select language"
+msgstr "Επιλέξτε γλώσσα"
+
+#: FreemeteoWeatherScreenlet.py:474
+msgid "Select language for Freemeteo.com forecasts"
+msgstr "Επιλέξτε γλώσσα για τις προβλέψεις του freemeteo.com"
+
+#: FreemeteoWeatherScreenlet.py:476
+msgid "Show error messages"
+msgstr "Εμφάνιση μηνυμάτων λάθους"
+
+#: FreemeteoWeatherScreenlet.py:477
+msgid "Show an error message on invalid location code"
+msgstr "Εμφάνιση μηνύματος λάθους σε περίπτωση λανθασμένου κωδικού περιοχής"
+
+#. Menu items have been moved here...
+#. add zip code menu item
+#: FreemeteoWeatherScreenlet.py:536
+msgid "Zip Code..."
+msgstr "Κωδικός περιοχής..."
+
+#. create dialog
+#: FreemeteoWeatherScreenlet.py:537 FreemeteoWeatherScreenlet.py:902
+msgid "Forecast description"
+msgstr "Περιγραφή πρόβλεψης καιρού"
+
+#: FreemeteoWeatherScreenlet.py:542
+msgid "Please select desired ZIP Code to view forecast."
+msgstr "Παρακαλώ επιλέξτε κωδικό περιοχής"
+
+#: FreemeteoWeatherScreenlet.py:628
+msgid "Please set your ZIP Code... "
+msgstr "Παρακαλώ εισάγετε τον κωδικό περιοχής... "
+
+#. self.draw_text(ctx, self.cityName, citytimewidth-citywidth-3, 1, self.bigfont, self.textColor)
+#: FreemeteoWeatherScreenlet.py:631
+msgid "Connecting... "
+msgstr "Πραγματοποιείται σύνδεση... "
+
+#. create dialog
+#: FreemeteoWeatherScreenlet.py:879
+msgid "Zip Code"
+msgstr "Κωδικός περιοχής"
+
+#: FreemeteoWeatherScreenlet.py:911
+msgid ""
+"There was an error fetching freemeteo servers. Please try again later..."
+msgstr ""
+"Παρουσιάστηκε σφάλμα κατά την ανάκτηση εξυπηρετητών freemeteo. Παρακαλώ "
+"ξαναπροσπαθήστε αργότερα..."
+
+#: FreemeteoWeatherScreenlet.py:930
+msgid ""
+"Could not reach Freemeteo.com. Check your internet connection and location "
+"and try again."
+msgstr ""
+"Η σύνδεση με το freemeteo.com απέτυχε. Παρακαλώ ελέγξτε τη σύνδεσή σας με το "
+"διαδίκτυο και το κωδικό περιοχή σας και προσπαθήστε ξανά"
+
+#. TRANSLATORS: This is the description of FreemeteoWeatherScreenlet
+msgid ""
+"A Minimal Weather Screenlet (powered by freemeteo.com) that uses Widescape "
+"Weather Graphics. Supports many languages."
+msgstr ""
+"Ένα μινιμαλιστικό screenlet καιρού (με δεδομένα από το freemeteo.com) το "
+"οποίο χρησιμοποιεί γραφικά από το Widescape Weather Graphics και υποστηρίζει "
+"πολλές γλώσσες."

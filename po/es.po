@@ -1,0 +1,261 @@
+# Spanish translation for indiv-screenlets
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the indiv-screenlets package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: indiv-screenlets\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-15 02:58+0200\n"
+"PO-Revision-Date: 2011-05-16 16:30+0000\n"
+"Last-Translator: Josué Arce <Unknown>\n"
+"Language-Team: Spanish <es@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-21 06:05+0000\n"
+"X-Generator: Launchpad (build 16872)\n"
+"Language: es\n"
+
+#: FreemeteoWeatherScreenlet.py:259 FreemeteoWeatherScreenlet.py:470
+#: FreemeteoWeatherScreenlet.py:522
+msgid "Metric"
+msgstr "Métrico"
+
+#. add option group
+#. TODO: Hook it up to LIVE SOURCES
+#. TODO: Edit Boxes entering Zipcode, Custom City Name
+#. Check Boxes for toggling Short/Expanded, City/Time display, Tray button
+#. Color selection boxes for Customizing Appearance
+#. TODO: Look into Mouse Event Handling - Mouse click/over on widget -> animate open/close
+#: FreemeteoWeatherScreenlet.py:424 FreemeteoWeatherScreenlet.py:427
+#: FreemeteoWeatherScreenlet.py:430 FreemeteoWeatherScreenlet.py:433
+#: FreemeteoWeatherScreenlet.py:436 FreemeteoWeatherScreenlet.py:439
+#: FreemeteoWeatherScreenlet.py:442 FreemeteoWeatherScreenlet.py:445
+#: FreemeteoWeatherScreenlet.py:448 FreemeteoWeatherScreenlet.py:451
+msgid "Appearance"
+msgstr "Apariencia"
+
+#: FreemeteoWeatherScreenlet.py:424
+msgid "Adjust Appearance of the Widget"
+msgstr "Ajustar Apariencia del Widget"
+
+#: FreemeteoWeatherScreenlet.py:425 FreemeteoWeatherScreenlet.py:453
+#: FreemeteoWeatherScreenlet.py:456 FreemeteoWeatherScreenlet.py:459
+#: FreemeteoWeatherScreenlet.py:462
+msgid "Layout"
+msgstr "Diseño"
+
+#: FreemeteoWeatherScreenlet.py:425
+msgid "Adjust Layout and Behavior of the Widget"
+msgstr "Ajustar Diseño y Comportamiento del Widget"
+
+#. we should not translate the ZIP variable...
+#: FreemeteoWeatherScreenlet.py:426 FreemeteoWeatherScreenlet.py:466
+#: FreemeteoWeatherScreenlet.py:469 FreemeteoWeatherScreenlet.py:471
+#: FreemeteoWeatherScreenlet.py:473 FreemeteoWeatherScreenlet.py:475
+msgid "Weather"
+msgstr "Meteorología"
+
+#: FreemeteoWeatherScreenlet.py:426
+msgid "Settings for fetching Weather Information"
+msgstr "Ajustes para obtener Información Meteorológica"
+
+#: FreemeteoWeatherScreenlet.py:428
+msgid "Background Color"
+msgstr "Color del fondo"
+
+#: FreemeteoWeatherScreenlet.py:429
+msgid "Background Color of the Widget"
+msgstr "Color de Fondo del Widget"
+
+#: FreemeteoWeatherScreenlet.py:431
+msgid "Icon Color"
+msgstr "Color del icono"
+
+#: FreemeteoWeatherScreenlet.py:432
+msgid "Color of the Weather Icons"
+msgstr "Color de Íconos del Clima"
+
+#: FreemeteoWeatherScreenlet.py:434
+msgid "Text Color"
+msgstr "Color del texto"
+
+#: FreemeteoWeatherScreenlet.py:435
+msgid "Color of the Text"
+msgstr "Color del Texto"
+
+#: FreemeteoWeatherScreenlet.py:437
+msgid "Bigger Font"
+msgstr "Fuente Grande"
+
+#: FreemeteoWeatherScreenlet.py:438
+msgid "Font used for City and current temperature"
+msgstr "Fuente utilizada para Ciudad y temperatura actual"
+
+#: FreemeteoWeatherScreenlet.py:440
+msgid "Smaller Font"
+msgstr "Fuente Pequeña"
+
+#: FreemeteoWeatherScreenlet.py:441
+msgid "Font used for forecast temperature"
+msgstr "Fuente utilizada para pronóstico de temperatura"
+
+#: FreemeteoWeatherScreenlet.py:443
+msgid "Tiny Font"
+msgstr "Tipografía pequeña"
+
+#: FreemeteoWeatherScreenlet.py:444
+msgid "Font used for forecast low temperature and dayname"
+msgstr "Tipo de letra utilizado para la temperatura baja"
+
+#: FreemeteoWeatherScreenlet.py:446
+msgid "Show Background for City"
+msgstr "Mostrar Fondo para la ciudad"
+
+#: FreemeteoWeatherScreenlet.py:447
+msgid "Show City and Time Background Color in the Widget ?"
+msgstr "¿Mostrar color de fondo de la ciudad y la hora en el widget?"
+
+#: FreemeteoWeatherScreenlet.py:449
+msgid "Show 24 Hour Clock"
+msgstr "Mostrar reloj de 24 horas"
+
+#: FreemeteoWeatherScreenlet.py:450
+msgid "Show a 24 Hour Clock ?"
+msgstr "¿Mostrar reloj de 24 horas?"
+
+#: FreemeteoWeatherScreenlet.py:452
+msgid "Background round corners"
+msgstr "Fondo esquinas redondas"
+
+#: FreemeteoWeatherScreenlet.py:452
+msgid "Draw background with round corners"
+msgstr "Dibujar Fondo esquinas redondas"
+
+#: FreemeteoWeatherScreenlet.py:454
+msgid "Show City and Time"
+msgstr "Mostrar ciudad y hora"
+
+#: FreemeteoWeatherScreenlet.py:455
+msgid "Show City and Time in the Widget ?"
+msgstr "¿Mostrar ciudad y hora en el widget?"
+
+#: FreemeteoWeatherScreenlet.py:457
+msgid "Use City's Local Time"
+msgstr "Hora local de la Ciudad"
+
+#: FreemeteoWeatherScreenlet.py:458
+msgid "Use selected city's local time instead of PC's time."
+msgstr ""
+"Usar la hora local de la ciudad seleccionada en lugar de tiempo del PC."
+
+#: FreemeteoWeatherScreenlet.py:460
+msgid "Show Forecast"
+msgstr "Mostrar pronóstico"
+
+#: FreemeteoWeatherScreenlet.py:461
+msgid "Show Forecast in the Widget ?"
+msgstr "¿Mostrar pronóstico en el widget?"
+
+#: FreemeteoWeatherScreenlet.py:463
+msgid "Show Toggle Forecast Icon"
+msgstr "Activar Mostrar icono Pronóstico"
+
+#: FreemeteoWeatherScreenlet.py:464
+msgid "Show a plus/minus icon for showing or not 4-days forecast."
+msgstr "Mostrar un icono de +/- para mostrar o no pronóstico de 4 días."
+
+#: FreemeteoWeatherScreenlet.py:467
+msgid "Freemeteo's Area ZIP Code"
+msgstr "Freemeteo Zona de código postal"
+
+#: FreemeteoWeatherScreenlet.py:468 FreemeteoWeatherScreenlet.py:885
+msgid ""
+"Get your area's code (Zip code) from http://www.freemeteo.com :\n"
+"Choose your region and copy the number after 'gid=' part of the URL"
+msgstr ""
+"Obtener el código de su área (código postal) de http://www.freemeteo.com: \n"
+"Seleccione su región y copie el número después de 'gid =' parte de la URL"
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "Select units"
+msgstr "Seleccionar unidades"
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "Metric=(C)elsius, English=(F)ahrenheit"
+msgstr "Métrica=(C)elsius, Inglesa=(F)ahrenheit"
+
+#: FreemeteoWeatherScreenlet.py:470
+msgid "English"
+msgstr "Inglés"
+
+#: FreemeteoWeatherScreenlet.py:472
+msgid "Select language"
+msgstr "Selección de idioma"
+
+#: FreemeteoWeatherScreenlet.py:474
+msgid "Select language for Freemeteo.com forecasts"
+msgstr "Seleccione el idioma para los pronósticos de Freemeteo.com"
+
+#: FreemeteoWeatherScreenlet.py:476
+msgid "Show error messages"
+msgstr "Mostrar mensajes de error"
+
+#: FreemeteoWeatherScreenlet.py:477
+msgid "Show an error message on invalid location code"
+msgstr "Mostrar un mensaje de error en código de ubicación no válido"
+
+#. Menu items have been moved here...
+#. add zip code menu item
+#: FreemeteoWeatherScreenlet.py:536
+msgid "Zip Code..."
+msgstr "Código postal..."
+
+#. create dialog
+#: FreemeteoWeatherScreenlet.py:537 FreemeteoWeatherScreenlet.py:902
+msgid "Forecast description"
+msgstr "Descripción de pronóstico"
+
+#: FreemeteoWeatherScreenlet.py:542
+msgid "Please select desired ZIP Code to view forecast."
+msgstr ""
+"Por favor, seleccione el código postal que desee para ver pronóstico."
+
+#: FreemeteoWeatherScreenlet.py:628
+msgid "Please set your ZIP Code... "
+msgstr "Por favor, colocar código ZIP "
+
+#. self.draw_text(ctx, self.cityName, citytimewidth-citywidth-3, 1, self.bigfont, self.textColor)
+#: FreemeteoWeatherScreenlet.py:631
+msgid "Connecting... "
+msgstr "Conectando... "
+
+#. create dialog
+#: FreemeteoWeatherScreenlet.py:879
+msgid "Zip Code"
+msgstr "Código postal"
+
+#: FreemeteoWeatherScreenlet.py:911
+msgid ""
+"There was an error fetching freemeteo servers. Please try again later..."
+msgstr ""
+"Hubo un error al buscar los servidores de freemeteo. Por favor inténtelo de "
+"nuevo más tarde ..."
+
+#: FreemeteoWeatherScreenlet.py:930
+msgid ""
+"Could not reach Freemeteo.com. Check your internet connection and location "
+"and try again."
+msgstr ""
+"No se pudo conectar a Freemeteo.com. Compruebe su conexión a Internet y "
+"ubicación y vuelva a intentarlo."
+
+#. TRANSLATORS: This is the description of FreemeteoWeatherScreenlet
+msgid ""
+"A Minimal Weather Screenlet (powered by freemeteo.com) that uses Widescape "
+"Weather Graphics. Supports many languages."
+msgstr ""
+"Screenlet de clima (alimentado por freemeteo.com) que usa gráficos Widescape "
+"en tiempo real. Soporta muchos idiomas."
